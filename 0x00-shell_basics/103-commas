@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -axmp 
+ls -A1v | tr '\n' ',' 
